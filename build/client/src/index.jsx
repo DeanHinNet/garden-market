@@ -10,7 +10,7 @@ class App extends React.Component {
     }
     render() {
         return(
-            <div>Welcome</div>
+            <div>Welcome to Garden Market!</div>
         )
     }
 }
